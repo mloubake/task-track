@@ -67,9 +67,9 @@ Header.propTypes = {
 
 //CSS in JS
 //Uma boa alternativa é usar o lib Styled-Components
-const headingStyle = {
-    color: 'red',
-    backgroundColor: 'bisque'
-}
+// const headingStyle = {
+//     color: 'red',
+//     backgroundColor: 'bisque'
+// }
 
 export default Header
