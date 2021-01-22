@@ -5,6 +5,12 @@
       "day": "Sáb 23 às 9:00 am",
       "reminder": true,
       "id": 1
+    },
+    {
+      "text": "asdasd",
+      "day": "asdasd",
+      "reminder": false,
+      "id": 2
     }
   ]
 }
